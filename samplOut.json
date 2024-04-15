@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 67,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "‘Abuse of power’: Elon Musk sues media outlet, Trump-backed AG launches probe - MSNBC",
+    "description": "Texas Attorney General Ken Paxton announced an investigation into the watchdog group Media Matters in the wake of their report about ads from major brands ap...",
+    "url": "https://www.youtube.com/watch?v=O_NFj3RWOHM",
+    "urlToImage": "https://i.ytimg.com/vi/O_NFj3RWOHM/maxresdefault.jpg",
+    "publishedAt": "2023-11-22T02:55:20Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "SoCal residents prepare for record-breaking Thanksgiving traffic this weekend - KTLA 5",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=uzHB4Ivy2ic",
+    "urlToImage": null,
+    "publishedAt": "2023-11-22T02:51:13Z",
+    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sarah Min",
+    "title": "Nasdaq 100 futures tick lower as traders assess Nvidia's earnings: Live updates - CNBC",
+    "description": "Nvidia reported a strong quarter, but some investors worry the stock's valuation could be stretched after its more than 200% rise this year.",
+    "url": "https://www.cnbc.com/2023/11/21/stock-market-today-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107308361-16959152532023-09-28t145730z_2121661326_rc2ph3akh7sb_rtrmadp_0_usa-stocks.jpeg?v=1696674037&w=1920&h=1080",
+    "publishedAt": "2023-11-22T00:54:00Z",
+    "content": "Nasdaq 100 futures were lower Tuesday night as Wall Street assessed Nvidia's latest earnings results.\r\nFutures tied to the tech-heavy index slipped about 0.2%, while S&amp;P 500 futures inched down r… [+1521 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Lucia Mutikani",
+    "title": "US existing home sales slump to more than 13-year low, prices accelerate - Reuters",
+    "description": "U.S. existing home sales dropped to the lowest level in more than 13 years in October as the highest mortgage rates in two decades and a dearth of houses drove buyers from the market.",
+    "url": "https://www.reuters.com/markets/us/us-existing-home-sales-slump-more-than-13-year-low-october-2023-11-21/",
+    "urlToImage": "https://www.reuters.com/resizer/Kp5Y_A-TxULMInDAhdoejKhhXyM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLKVNNNDW5P5PNGP2DBYLAM4J4.jpg",
+    "publishedAt": "2023-11-22T00:32:48Z",
+    "content": "WASHINGTON, Nov 21 (Reuters) - U.S. existing home sales dropped to the lowest level in more than 13 years in October as the highest mortgage rates in two decades and a dearth of houses drove buyers f… [+4966 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Julie Coleman",
+    "title": "Cramer broadly agrees with Bank of America's bullish analysis, says next year could bring gains for the S&P 500 - CNBC",
+    "description": "CNBC's Jim Cramer gave his thoughts on Bank of America's bullish prediction for 2024.",
+    "url": "https://www.cnbc.com/2023/11/21/cramer-agrees-with-bank-of-america-says-2024-gains-for-the-sp-500.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/104979618-IMG_2870_2rr.jpg?v=1692140400&w=1920&h=1080",
+    "publishedAt": "2023-11-22T00:32:00Z",
+    "content": "CNBC's Jim Cramer on Tuesday reacted to Bank of America's bullish outlook for 2024, agreeing that it's possible S&amp;P 500 could reach 5000 by the end of next year.\r\nBank of America strategist Savit… [+2166 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Yun Li",
+    "title": "Warren Buffett makes big donation before Thanksgiving, assures shareholders Berkshire is built to last - CNBC",
+    "description": "Warren Buffett donated more than $870 million in Berkshire Hathaway stock to four family foundations before Thanksgiving.",
+    "url": "https://www.cnbc.com/2023/11/21/warren-buffett-makes-big-donation-before-thanksgiving-says-berkshire-is-built-to-last.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107236960-1683387197069-AP23124749905653.jpg?v=1692045052&w=1920&h=1080",
+    "publishedAt": "2023-11-21T23:57:57Z",
+    "content": "Warren Buffett donated more than $870 million in Berkshire Hathaway stock to four family foundations before Thanksgiving, assuring investors in a letter that the conglomerate is \"built to last.\"\r\nThe… [+2337 chars]"
+    },
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": "Madhumita Murgia, George Hammond",
+    "title": "OpenAI directors in talks with Sam Altman on rejoining board - Financial Times",
+    "description": "Effort to unify generative artificial intelligence group follows pressure from staff and investors",
+    "url": "https://www.ft.com/content/cf1d3a97-051c-46a1-ae93-047fbbe52728",
+    "urlToImage": null,
+    "publishedAt": "2023-11-21T23:46:04Z",
+    "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "USA TODAY",
+    "title": "Massachusetts lottery player wins $25,000 for life on a Thursday - USA TODAY",
+    "description": null,
+    "url": "https://www.usatoday.com/story/money/lottery/2023/11/21/massachusetts-lottery-25-thousand-for-life-winner/71672012007/",
+    "urlToImage": null,
+    "publishedAt": "2023-11-21T23:30:37Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Julie Coleman",
+    "title": "HP CEO says AI capabilities will 'double the growth of the PC category' - CNBC",
+    "description": "HP Inc CEO Enrique Lores discussed how new computers with AI capabilities will help grow the PC market in an interview with CNBC's Jim Cramer.",
+    "url": "https://www.cnbc.com/2023/11/21/hp-ceo-says-ai-will-double-the-growth-of-the-pc-category.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106413278-1582808130935img_8790r.jpg?v=1685491075&w=1920&h=1080",
+    "publishedAt": "2023-11-21T23:29:35Z",
+    "content": "In a Tuesday interview with CNBC's Jim Cramer, HP Inc CEO Enrique Lores said his company's new computers with artificial intelligence capabilities will help accelerate and grow the PC market. \r\n\"This… [+1099 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Dow Jones Futures: Nvidia Earnings Skyrocket Again On AI Boom, But Is It Enough? - Investor's Business Daily",
+    "description": "The AI chip leader's results and guidance are key for the market rally.",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-skyrocket-again-on-ai-boom-but-is-it-enough/",
+    "urlToImage": "https://www.investors.com/wp-content/uploads/2021/11/Stock-nvidia-hqendeavor-01-company.jpg",
+    "publishedAt": "2023-11-21T23:19:00Z",
+    "content": "Dow Jones futures were little changed overnight, along with S&amp;P 500 futures and Nasdaq futures. AI leader Nvidia (NVDA) fell despite another strong beat-and-raise report.\r\nXNvidia earnings have h… [+6381 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Death, preterm labor reported in Listeria outbreak linked to fruits - ABC7",
+    "description": "Eleven cases of Listeria infection have been reported in seven states in an outbreak linked with peaches, plums and nectarines, the CDC said Monday. One pers...",
+    "url": "https://www.youtube.com/watch?v=KYETQpxpJgo",
+    "urlToImage": "https://i.ytimg.com/vi/KYETQpxpJgo/maxresdefault.jpg",
+    "publishedAt": "2023-11-21T23:13:21Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Khristopher J. Brooks",
+    "title": "Here's how much — or little — the typical American has in a 401(k) - CBS News",
+    "description": "Although baby boomers have the most socked away for retirement, many Americans are likely to fall short of their savings goal.",
+    "url": "https://www.cbsnews.com/news/american-retirement-account-balance-generation-fidelity/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/21/3c2fed89-5a71-4f05-891a-fb10f1735ed5/thumbnail/1200x630/0b17217ab0e8a226482e6860ded7ac27/gettyimages-91509203.jpg?v=5659e73acd91751548aa89950cf015b0",
+    "publishedAt": "2023-11-21T22:58:00Z",
+    "content": "Recent data on how much money people have tucked away in their 401(k) plans highlights just how far most Americans have to go to reach their retirement savings goals.\r\nAs of the third quarter, 401(k)… [+1902 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Aimee Picchi",
+    "title": "IRS delaying $600 payment reporting rule for PayPal, Venmo and more — again - CBS News",
+    "description": "Tax agency also said it will boost the reporting threshold to $5,000, from $600, in 2024 as it phases in the new regulation.",
+    "url": "https://www.cbsnews.com/news/irs-delay-600-reporting-form-venmo-paypal-1099k-2024/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/01/07/eccf53a2-e0d7-49e5-9e83-058f9ba977e9/thumbnail/1200x630/f56b356196a14c9a61dc0f592237229c/gettyimages-1289069272.jpg?v=5659e73acd91751548aa89950cf015b0",
+    "publishedAt": "2023-11-21T22:12:00Z",
+    "content": "The IRS on Tuesday said it is again delaying the implementation of a 2021 law that requires payment platforms such as Venmo, Paypal or Cash App to send tax forms called 1099-Ks to anyone who received… [+4329 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investopedia"
+    },
+    "author": "Nathan Reiff",
+    "title": "Nvidia Earnings Soar Past Analyst Predictions as Data Center Business Booms - Investopedia",
+    "description": "The chipmaker, which controls the large majority of the AI chip market, seems set to continue to rise with a newly increased forecast through the end of the year.",
+    "url": "https://www.investopedia.com/nvidia-earnings-soar-past-analyst-predictions-as-data-center-business-booms-8405322",
+    "urlToImage": "https://www.investopedia.com/thmb/vDdaeQ5lzEvdOddijX1nltpCuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1590840601-f20e80824869417894b8879288a3dd5b.jpg",
+    "publishedAt": "2023-11-21T21:59:04Z",
+    "content": "<ul><li>Nvidia handily beat analysts expectations for the third quarter in both revenue and earnings. </li><li>However, investors had even higher expectations for the company, and its stock lost grou… [+1908 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Ines Ferré",
+    "title": "Gas prices: National average at lowest level of 2023 ahead of Thanksgiving weekend - Yahoo Finance",
+    "description": "Gas prices slide lower as drivers hit the road for Thanksgiving.",
+    "url": "https://finance.yahoo.com/news/gas-prices-national-average-at-lowest-level-of-2023-ahead-of-thanksgiving-weekend-210719722.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6Rw68G.nJYy2qfczjP_Nbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/b8021dd0-88a2-11ee-beff-3015550cc21b",
+    "publishedAt": "2023-11-21T21:07:19Z",
+    "content": "Gasoline prices are at their lowest level of the year heading into Thanksgiving. The national average is $3.30 per gallon, down $0.25 in the last month and $0.36 lower from a year ago, according to A… [+2604 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Lorie Konish",
+    "title": "Retirees face significantly higher Medicare Part D prescription drug premiums in 2024. What to know - CNBC",
+    "description": "As a new law limiting Medicare's out of pocket prescription drug costs gets phased in, retirees will see rising premiums next year.",
+    "url": "https://www.cnbc.com/2023/11/21/retirees-face-significantly-higher-medicare-part-d-drug-costs-in-2024.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107322379-1698162061101-gettyimages-1401597823-medicalappt_5.jpeg?v=1700589699&w=1920&h=1080",
+    "publishedAt": "2023-11-21T20:31:47Z",
+    "content": "A new law is poised to cap seniors' prescription drug costs covered under Medicare, starting in 2025.\r\nBut retirees may be in for a shock next year significantly higher Medicare Part D premiums for p… [+4764 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Detroit Free Press"
+    },
+    "author": "Dave Boucher",
+    "title": "Ford to scale back jobs, investment for Marshall EV battery plant - Detroit Free Press",
+    "description": "Ford announced the significant cut in jobs and investment roughly two months after pausing work at the Marshall megasite.",
+    "url": "https://www.freep.com/story/money/cars/ford/2023/11/21/ford-marshall-electric-vehicle-battery-plant-reduce-plans-jobs/71664207007/",
+    "urlToImage": "https://www.freep.com/gcdn/presto/2023/09/13/PDTF/848de3d5-6e82-47f1-be23-0e960647a260-FordMarshall_071223_ES04.jpg?crop=2399,1350,x0,y82&width=2399&height=1350&format=pjpg&auto=webp",
+    "publishedAt": "2023-11-21T20:22:14Z",
+    "content": "Ford is reducing its commitment to a planned Marshall-area electric vehicle battery facility by 800 jobs and more than $1 billion, moves that will reduce the plant's production capacity by roughly 40… [+5985 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hollywood Reporter"
+    },
+    "author": "Winston Cho",
+    "title": "Sarah Silverman Hits Stumbling Block in AI Copyright Infringement Lawsuit Against Meta - Hollywood Reporter",
+    "description": "The ruling builds upon findings from another federal judge overseeing a lawsuit against AI art generators, who similarly delivered a blow to fundamental contentions from plaintiffs in the case.",
+    "url": "https://www.hollywoodreporter.com/business/business-news/sarah-silverman-lawsuit-ai-meta-1235669403/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/11/Sarah-Silverman-Tony-Awards-Carpet-GettyImages-1241277641-H-2023.jpg?w=1024",
+    "publishedAt": "2023-11-21T20:10:14Z",
+    "content": "A federal judge has dismissed most of Sarah Silverman‘s lawsuit against Meta over the unauthorized use of authors’ copyrighted books to train its generative artificial intelligence model, marking the… [+4614 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Outkick.com"
+    },
+    "author": "Joe Kinsey",
+    "title": "'Possessed' Woman On Frontier Flight Should've Been Blasted With An Elephant Tranquilizer - Outkick",
+    "description": "Good luck to those of you flying the budget airlines this week. Based on a recent Frontier flight from Houston to Denver, some of you budget airline",
+    "url": "https://www.outkick.com/possessed-woman-frontier-flight-shouldve-been-blasted-with-an-elephant-tranquilizer/",
+    "urlToImage": "https://www.outkick.com/wp-content/uploads/Frontier-airlines-passenger-crazy-1.png",
+    "publishedAt": "2023-11-21T19:21:09Z",
+    "content": "Good luck to those of you flying the budget airlines this week. \r\nBased on a recent Frontier flight from Houston to Denver, some of you budget airline fiends are in for a real treat if the latest vid… [+2103 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Lori Aratani",
+    "title": "At FAA command center, round-the-clock work to keep holiday flights on track - The Washington Post",
+    "description": "The only facility of its kind in the FAA system, located outside Washington in Virginia, is charged with managing traffic across the national airspace.",
+    "url": "https://www.washingtonpost.com/transportation/2023/11/21/faa-air-traffic-command-center-virginia/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/426UEVO7FYI7DAHPOS6LKWOF74_size-normalized.JPG&w=1440",
+    "publishedAt": "2023-11-21T19:16:00Z",
+    "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nWARRENTON, Va. It was early on a recent morning, and already there was trouble brewing over Florida. Storms were parked over the state… [+6884 chars]"
+    }
+    ]
+    }
